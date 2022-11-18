@@ -1,4 +1,8 @@
 # Lab 8 - Starter
+Name: Tianya Zhan
+
+No Partner
+
 
 1) Within a Github aciton that runs whenever code is pushed
 Having the test in Github means that it can be ran with the other automated styling test, so all test can be ran at the same time. Also, having the test on Github so that we are somewhat confident with our code before testing. Thus, we do not completely rely on the testing to write our code. Manually running test is not promissing because we could forget this step before we push to GitHub, so having automated checker on Github is important so that we don't merge something wrong into the main when we forget to run test locally. 
